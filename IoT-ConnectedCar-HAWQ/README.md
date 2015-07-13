@@ -1,13 +1,23 @@
-# IoT-ConnectedCar-Extension
+# IoT-ConnectedCar-HAWQ
 
-This repository contains additionnal components to integrate into IoT-ConnectedCar demo. (https://github.com/pivotal/IoT-ConnectedCar).
+This projet illustrates HAWQ value in the IoT-ConnectedCar demo.
 
-Each folder in this repository is independent. Each folder demonstrates the value of a specific Pivotal asset.
+## Setup
 
-## Components
+1. Prequisites : //
 
-1. HAWQ
+2. Create the ODB_DATA table
 
+Log in as a gpadmin.
 
-2. PCF
+Run the following command :  psql -f create_odb.sql 
+
+3. 
+
+4. Install Tableau Desktop (trial version or with a valid key)
+
+ You can easily draw such graph (see below) based on sql_query_example.sql.
+ 
+ 
+
 
