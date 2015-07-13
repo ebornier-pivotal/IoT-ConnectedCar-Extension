@@ -2,7 +2,7 @@
 
 This projet illustrates HAWQ value in the IoT-ConnectedCar demo.
 
-Data comming from ODB devices are ingested by Spring-XD. A specific tap transforms data into a columnar format and stores it into HDFS.
+Data coming from ODB devices are ingested by Spring-XD. A specific tap transforms data into a columnar format and stores it into HDFS.
 
 An external HAWQ table (using PXF) enables to query ODB Data, and draw graph inside Tableau Desktop software.
 
