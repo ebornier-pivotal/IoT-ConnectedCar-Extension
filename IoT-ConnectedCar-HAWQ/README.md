@@ -18,7 +18,7 @@ Run the following command :  psql -f create_odb.sql
 
  You can easily draw such graph (see below) based on sql_query_example.sql.
  
- ![Tableau HAWQ](/Tableau-HAWQ.png)
+ ![Tableau HAWQ](https://raw.githubusercontent.com/ebornier-pivotal/IoT-ConnectedCar-Extension/master/IoT-ConnectedCar-HAWQ/Tableau-HAWQ.png)
  
 
 
