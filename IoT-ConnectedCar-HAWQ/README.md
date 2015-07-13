@@ -8,7 +8,7 @@ An external HAWQ table (using PXF) enables to query ODB Data, and draw graph ins
 
 ## Setup
 
-1.**Prequisites** 
+**1.Prequisites** 
 
 - Spring XD 1.2 (but should work with Spring XD 1.1)
 - PHD 3.0
