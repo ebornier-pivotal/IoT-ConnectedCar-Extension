@@ -1,0 +1,1 @@
+stream create --name IoT-Hawq --definition  "tap:stream:IoT-HTTP.shell > transform --script=file:///home/user/spring-xd/convertToColumn.groovy | hdfs --fileName='travel' --directory='/IoT/hawq/' " --deploy
