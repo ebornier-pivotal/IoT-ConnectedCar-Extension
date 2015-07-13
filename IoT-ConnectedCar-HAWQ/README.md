@@ -20,7 +20,7 @@ Log in as a gpadmin.
 
 Run the following command :  psql -f create_odb.sql 
 
-**3.Create the stream IoT-HAWQ **
+**3.Create the stream IoT-HAWQ**
 
 Run the following command : xd-shell --cmdfile stream-IoT-HAWQ.xd 
 
